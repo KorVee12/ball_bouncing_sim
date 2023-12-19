@@ -20,7 +20,7 @@ class Ball:
         turtle.circle(self.size)
         turtle.end_fill()
 
-    def move_circle(self, xpos, ypos, vx, vy, canvas_width, canvas_height):
+    def move_circle(self, canvas_width, canvas_height):
         self.x += self.vx
         self.y += self.vy
 
