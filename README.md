@@ -2,3 +2,9 @@
 
 - Starting procedural-style code for ball bouncing simulation
 - Students are to convert it into object-oriented style code that produces the same result
+
+<div align="center">
+
+![img](example_ball.gif)
+
+</div>
